@@ -1,0 +1,83 @@
+ File has been used for this event: canadian charities.csv
+ Type of the imported file: csv
+ Revision of the which is used: 3
+ Mode of event: Insert
+ Total no of records: 80
+ Rows handled on each iterations (Based on your server configuration): 1
+ File used to import data into: charity (CustomPosts)
+[2019-09-04 13:55:17] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:17] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:18] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:18] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:18] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:19] Message: Inserted charity ID: 83353,  Status: publish  Click here to verify - Web View | Admin View 
+[2019-09-04 13:55:20] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:21] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:21] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:22] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:23] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:23] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:23] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:24] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:24] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:25] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:25] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:25] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:26] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:26] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:26] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:27] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:27] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:28] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:29] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:29] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:30] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:30] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:30] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:31] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:31] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:31] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:32] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:32] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:32] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:33] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:33] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:34] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:35] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:35] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:36] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:36] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:36] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:37] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:38] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:39] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:39] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:40] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:40] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:40] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:41] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:41] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:41] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:42] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:42] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:42] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:43] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:43] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:44] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:45] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:45] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:46] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:46] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:46] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:47] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:47] Message: Duplicate found can not insert this 
+[2019-09-04 13:55:48] Message: Inserted charity ID: 83354,  Status: publish  Click here to verify - Web View | Admin View 
+[2019-09-04 13:55:49] Message: Inserted charity ID: 83355,  Status: publish  Click here to verify - Web View | Admin View 
+[2019-09-04 13:55:50] Message: Inserted charity ID: 83356,  Status: publish  Click here to verify - Web View | Admin View 
+[2019-09-04 13:55:51] Message: Inserted charity ID: 83357,  Status: publish  Click here to verify - Web View | Admin View 
+[2019-09-04 13:55:52] Message: Inserted charity ID: 83358,  Status: publish  Click here to verify - Web View | Admin View 
+[2019-09-04 13:55:53] Message: Inserted charity ID: 83359,  Status: publish  Click here to verify - Web View | Admin View 
+[2019-09-04 13:55:54] Message: Inserted charity ID: 83360,  Status: publish  Click here to verify - Web View | Admin View 
+[2019-09-04 13:55:55] Message: Inserted charity ID: 83361,  Status: publish  Click here to verify - Web View | Admin View 
+[2019-09-04 13:55:56] Message: Inserted charity ID: 83362,  Status: publish  Click here to verify - Web View | Admin View 
+[2019-09-04 13:55:57] Message: Inserted charity ID: 83363,  Status: publish  Click here to verify - Web View | Admin View 
