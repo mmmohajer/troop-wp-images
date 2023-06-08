@@ -1,2 +1,0 @@
-/**handles:gaaf-custom**/
-function wnw_set_google_autocomplete(){jQuery(gaaf_fields).each(function(){var e=new google.maps.places.Autocomplete(this,{types:["geocode"]})})}jQuery(window).load(function(){wnw_set_google_autocomplete()});
